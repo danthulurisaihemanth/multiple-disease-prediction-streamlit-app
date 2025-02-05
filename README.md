@@ -16,22 +16,29 @@ Interactive User Interface 🎨
 Real-time Prediction Results 🔮
 
 # 🛠️ Technology Stack
-Programming Language: Python 🐍
-Web Framework: Streamlit 🌐
+
+🐍 Programming Language: Python 
+🌐 Web Framework: Streamlit 
 Machine Learning Models: Pickled Models for Diabetes, Heart Disease, and Parkinson's Disease
-Frontend: Streamlit Widgets and Option Menu 📊
+📊 Frontend: Streamlit Widgets and Option Menu 📊
   
 # 💻 How to Run the Project
 Clone the repository:
+bash
+Copy
+Edit
 git clone https://github.com/yourusername/Multiple-Disease-Prediction-System.git
-
 Install required packages:
+bash
+Copy
+Edit
 pip install -r requirements.txt
-
 Run the application:
+bash
+Copy
+Edit
 streamlit run main.py
-
-# Access the app at http://localhost:8501.
+Access the app at http://localhost:8501.
 # 🔮 Prediction Workflow
 # 1️⃣ Diabetes Prediction 🩺
 Input details like pregnancies, glucose level, blood pressure, insulin level, BMI, etc.
