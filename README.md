@@ -38,3 +38,19 @@ This project is a web-based application built using Streamlit and machine learni
 
 ### [Parkinson’s Disease Prediction](https://github.com/danthulurisaihemanth/multiple-disease-prediction-streamlit-app/blob/main/Webpage%20Screenshots/parkinsons_page.png)
 
+
+## How to Run the Project  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/danthulurisaihemanth/multiple-disease-prediction-streamlit-app.git
+
+## Project Structure
+-app.py: Main Streamlit application file.
+-models/: Contains pre-trained machine learning models for prediction.
+-Webpage Screenshots/: Screenshots of each disease prediction webpage.
+-requirements.txt: List of dependencies required to run the project.
+
+## Author  
+**D. Sai Hemanth Varma**  
+- [LinkedIn Profile](https://www.linkedin.com/in/danthuluri-saihemanth-2332a1252/)  
+
