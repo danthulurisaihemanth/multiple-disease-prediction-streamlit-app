@@ -30,17 +30,7 @@ This user-friendly interface allows individuals to input their medical details a
 
 This project is a web-based application built using Streamlit and machine learning models for predicting Diabetes, Heart Disease, and Parkinson’s Disease.
 
-## Webpage Screenshots
-
-### Home Page
-![Home Page](./WebPage%20ScreenShots/home_page.png)
-
-### Diabetes Prediction
-![Diabetes Prediction]([./WebPage%20ScreenShots/diabetes_page.png](https://github.com/danthulurisaihemanth/multiple-disease-prediction-streamlit-app/blob/main/Webpage%20Screenshots/diabetes_page.png))
-
-### Heart Disease Prediction
-![Heart Disease Prediction]([./WebPage%20ScreenShots/heart_disease_page.png](https://github.com/danthulurisaihemanth/multiple-disease-prediction-streamlit-app/blob/main/Webpage%20Screenshots/heart_disease_page.png))
-
-### Parkinson’s Disease Prediction
-![Parkinson’s Disease Prediction](https://github.com/danthulurisaihemanth/multiple-disease-prediction-streamlit-app/blob/main/Webpage%20Screenshots/parkinsons_page.png)
-
+# Webpage Screenshots
+Diabetes Prediction
+Heart Disease Prediction
+Parkinson’s Disease Prediction
