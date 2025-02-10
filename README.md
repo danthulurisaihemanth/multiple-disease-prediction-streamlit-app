@@ -36,11 +36,11 @@ This project is a web-based application built using Streamlit and machine learni
 ![Home Page](./WebPage%20ScreenShots/home_page.png)
 
 ### Diabetes Prediction
-![Diabetes Prediction](./WebPage%20ScreenShots/diabetes_page.png)
+![Diabetes Prediction]([./WebPage%20ScreenShots/diabetes_page.png](https://github.com/danthulurisaihemanth/multiple-disease-prediction-streamlit-app/blob/main/Webpage%20Screenshots/diabetes_page.png))
 
 ### Heart Disease Prediction
-![Heart Disease Prediction](./WebPage%20ScreenShots/heart_disease_page.png)
+![Heart Disease Prediction]([./WebPage%20ScreenShots/heart_disease_page.png](https://github.com/danthulurisaihemanth/multiple-disease-prediction-streamlit-app/blob/main/Webpage%20Screenshots/heart_disease_page.png))
 
 ### Parkinson’s Disease Prediction
-![Parkinson’s Disease Prediction](./WebPage%20ScreenShots/parkinsons_page.png)
+![Parkinson’s Disease Prediction](https://github.com/danthulurisaihemanth/multiple-disease-prediction-streamlit-app/blob/main/Webpage%20Screenshots/parkinsons_page.png)
 
