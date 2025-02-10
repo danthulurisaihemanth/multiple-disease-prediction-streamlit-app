@@ -25,4 +25,22 @@ This user-friendly interface allows individuals to input their medical details a
 - 🌐 Web Framework: Streamlit 
 - Machine Learning Models: Pickled Models for Diabetes, Heart Disease, and Parkinson's Disease
 - 📊 Frontend: Streamlit Widgets and Option Menu 📊
-  
+
+# Multiple Disease Prediction System
+
+This project is a web-based application built using Streamlit and machine learning models for predicting Diabetes, Heart Disease, and Parkinson’s Disease.
+
+## Webpage Screenshots
+
+### Home Page
+![Home Page](./WebPage%20ScreenShots/home_page.png)
+
+### Diabetes Prediction
+![Diabetes Prediction](./WebPage%20ScreenShots/diabetes_page.png)
+
+### Heart Disease Prediction
+![Heart Disease Prediction](./WebPage%20ScreenShots/heart_disease_page.png)
+
+### Parkinson’s Disease Prediction
+![Parkinson’s Disease Prediction](./WebPage%20ScreenShots/parkinsons_page.png)
+
