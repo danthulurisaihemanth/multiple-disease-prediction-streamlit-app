@@ -57,3 +57,50 @@ Diabetes Prediction Model: Trained on a dataset of medical records using Logisti
 Heart Disease Prediction Model: Developed with Decision Tree Classifier.
 Parkinson's Disease Prediction Model: Utilizes SVM (Support Vector Machine) for voice-based feature prediction.
 📊 Sample Visuals
+
+
+# 🚀 Installation
+Follow these steps to run the project locally:
+
+Clone the repository:
+bash
+Copy
+Edit
+git clone https://github.com/your-username/multiple-disease-prediction.git
+Navigate to the project directory:
+bash
+Copy
+Edit
+cd multiple-disease-prediction
+Install dependencies:
+bash
+Copy
+Edit
+pip install -r requirements.txt
+Run the application:
+bash
+Copy
+Edit
+streamlit run app.py
+
+# 📈 Models and Performance
+Diabetes Prediction: Logistic Regression (Accuracy: 80%)
+Heart Disease Prediction: SVM (Accuracy: 85%)
+Parkinson’s Disease Prediction: Random Forest (Accuracy: 88%)
+
+#📋 Usage
+Open the application by running the command:
+bash
+Copy
+Edit
+streamlit run app.py
+Choose the disease prediction option from the sidebar.
+Enter the required details in the input fields.
+Click Predict to see the results.
+
+# 📧 Contact
+If you have any questions or suggestions, feel free to reach out:
+
+Name: D. Sai Hemanth Varma
+Email: [your-email@example.com]
+LinkedIn: [https://linkedin.com/in/your-profile]
