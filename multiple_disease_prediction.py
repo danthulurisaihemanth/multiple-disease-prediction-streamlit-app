@@ -20,9 +20,9 @@ parkinsons_model = pickle.load(open('D:/Hemanth Projects/multiple Disease predic
 with st.sidebar:
     selected = option_menu('Multiple Disease Prediction System 🏥',
 
-                           ['Diabetes Prediction 🍩',
-                            'Heart Disease Prediction ❤️',
-                            "Parkinson's Prediction 🧠"],
+                           ['Diabetes Predictions 🍩',
+                            'Heart Disease Predictions ❤️',
+                            "Parkinson's Predictions 🧠"],
                            menu_icon='hospital-fill',
                            icons=['activity', 'heart', 'person'],
                            default_index=0)
