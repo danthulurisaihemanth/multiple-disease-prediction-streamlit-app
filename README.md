@@ -1,4 +1,4 @@
-# 🏥 Multiple-Disease-Prediction-Streamlit-app
+# 🏥 Multiple-Disease-Prediction-Streamlit-app with fastapi deployment
 A Streamlit Web App to Predict Diabetes, Heart Disease, and Parkinson's Disease Using Machine Learning
 
 # 📋 Overview
