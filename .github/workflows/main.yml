@@ -41,7 +41,8 @@ jobs:
         run: |
           mkdir -p ~/.ssh
           echo "${{ secrets.SERVER_SSH_KEY }}" > ~/.ssh/id_rsa
-          chmod 600 ~/.ssh/id_rsa
+          chmod 700 ~/.ssh  # Secure the .ssh directory
+          chmod 600 ~/.ssh/id_rsa  # Ensure private key is secure
           ssh-keyscan -H ${{ secrets.SERVER_HOST }} >> ~/.ssh/known_hosts
 
       - name: SSH into Server and Deploy
