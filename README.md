@@ -7,7 +7,7 @@ The Multiple Disease Prediction System is a machine learning-based web applicati
 # 🩸 Diabetes
 # ❤️ Heart Disease
 # 🧠 Parkinson's Disease
-This user-friendly interface allows individuals to input their medical details and get instant predictions. Built with Streamlit and FastAPI, it offers real-time responses and helps with early disease diagnosis.
+This user-friendly interface allows individuals to input their medical details and get instant predictions. Built with Streamlit and FastAPI, it offers real-time responses and helps with early disease diagnosis....
 
 # 🚀 Features
 1. Diabetes Prediction 🩺
