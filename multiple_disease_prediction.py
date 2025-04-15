@@ -11,11 +11,9 @@ st.set_page_config(page_title="Health Assistant 🏥",
 # Getting the working directory of the main.py
 working_dir = os.path.dirname(os.path.abspath(__file__))
 
-# Loading the saved models
 diabetes_model = pickle.load(open('D:/Hemanth Projects/multiple Disease prediction app/Saved models/diabetes_model.sav', 'rb'))
 heart_disease_model = pickle.load(open('D:/Hemanth Projects/multiple Disease prediction app/Saved models/heart_disease_model.sav', 'rb'))
 parkinsons_model = pickle.load(open('D:/Hemanth Projects/multiple Disease prediction app/Saved models/parkinsons_model.sav', 'rb'))
-
 # Sidebar for navigation
 with st.sidebar:
     selected = option_menu('Multiple Disease Prediction System 🏥',
