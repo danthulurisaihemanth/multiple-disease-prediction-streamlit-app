@@ -21,7 +21,7 @@ parkinsons_model = pickle.load(open('D:/Projects/multiple disease prediction app
 with st.sidebar:
     selected = option_menu('Multiple Disease Prediction System 🏥',
 
-                           ['Diabetes..f 🍩',
+                           ['Diabetes..fabcdkd🍩',
                             'Heart Disease Predictions ❤️',
                             "Parkinson's Predictions 🧠"],
                            menu_icon='hospital-fill',
