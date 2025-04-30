@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 8501
 
 # Command to run the application
-CMD ["streamlit", "run", "multiple_disease_prediction.py", "--server.port=8501", "--server.address=0.0.0.0"]
+CMD ["streamlit", "run", "multiple_disease_predictions.py", "--server.port=8501", "--server.address=0.0.0.0"]
