@@ -1,5 +1,6 @@
-🏥 Multiple-Disease-Prediction System with Streamlit and FastAPI Deployment...............
-A Web App to Predict Diabetes, Heart Disease, and Parkinson's Disease Using Machine Learning
+# 🏥 Multiple-Disease-Prediction System with Streamlit and FastAPI Deployment
+
+A Web Interface to Predict Diabetes, Heart Disease, and Parkinson's Disease Using Machine Learning
 
 # 📋 Overview
 The Multiple Disease Prediction System is a machine learning-based web application that predicts the likelihood of three diseases:
